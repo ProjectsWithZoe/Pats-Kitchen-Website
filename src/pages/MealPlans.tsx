@@ -31,7 +31,7 @@ const mealPlans: MealPlan[] = [
     title: "Snack box",
     category: "Snacks",
     imageUrl: "../snacks.jpg",
-    description: "Plant-based dinner options packed with flavor and nutrients.",
+    description: "Various snack options packed with flavor and nutrients.",
   },
 ];
 
