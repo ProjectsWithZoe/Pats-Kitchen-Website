@@ -9,6 +9,7 @@ function App() {
     <Router>
       <div className="min-h-screen bg-white">
         <Navbar />
+        <Analytics />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/meal-plans" element={<MealPlans />} />
