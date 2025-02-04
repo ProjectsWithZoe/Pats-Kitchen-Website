@@ -51,7 +51,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="https://www.instagram.com/pats_kitchen"
+              href="https://www.instagram.com/pats_kitchenn"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center p-5 bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
@@ -60,7 +60,7 @@ export default function Contact() {
                 <Instagram className="w-5 h-5 text-amber-600" />
               </div>
               <h3 className="font-semibold text-base mb-1">Instagram</h3>
-              <p className="text-gray-600 text-sm text-center">@pats_kitchen</p>
+              <p className="text-gray-600 text-sm text-center">@pats_kitchenn</p>
               <span className="mt-2 text-xs text-amber-600 group-hover:text-amber-700">
                 Follow us
               </span>
